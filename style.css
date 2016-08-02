@@ -1,0 +1,47 @@
+h2, h3{
+  color:#EE534F;
+  font-family:Arial;
+}
+body{
+  width:33%;
+  font-size:16px;
+  background-color:;
+  background-size:33%;
+  padding: 1%;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande"; 
+   font-weight: 300;
+}
+h2:first-line{
+  font-weight:400;
+}
+h2:second-line{
+  font-weight:700;
+}
+}
+img, h2, h3, p{
+  padding-left:10%;
+}
+
+a{
+  text-decoration: none;
+  color: #EE534F;
+  
+}
+a:hover{
+  color: #00CC99;
+}
+a:active{
+  color:deeppink;
+}
+
+  hr {
+    border: 0;
+    height: 0;
+    box-shadow: 0 0 10px 1px black;
+}
+.body{
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+border: 4px groove #f7a49e;
+}
